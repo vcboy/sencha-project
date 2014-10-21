@@ -1,4 +1,4 @@
 sencha-project
 ==============
 
-first 
+first project in github
